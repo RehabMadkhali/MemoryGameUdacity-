@@ -1,8 +1,8 @@
-###### Memory Game 
+# Memory Game 
 
-You can use the [editor on GitHub](https://github.com/RehabMadkhali/Memory_Game-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It's an interactive  project has some HTML and CSS styling and JavaScript file.The starter  of the project was given by UDACITY 
+for more details see [GitHub Flavored Markdown](https://github.com/udacity/fend-project-memory-game).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
