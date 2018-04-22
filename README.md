@@ -1,7 +1,7 @@
 # Memory Game 
 
 It's an interactive  project has some HTML and CSS styling and JavaScript file.The starter  of the project was given by UDACITY 
-for more details see [GitHub Flavored Markdown](https://github.com/udacity/fend-project-memory-game).
+for more details see [GitHub udacity/fend-project-memory-game](https://github.com/udacity/fend-project-memory-game).
 
 
 ### Markdown
