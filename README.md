@@ -5,7 +5,13 @@ for more details see [GitHub udacity/fend-project-memory-game](https://github.co
 
 
 ### How to play the game ?
-the player have to find a match card in ...
+tTHE RULES FOR PLAYING "MEMORY"
+the cards outmaticly Mix up .
+Turn over any two cards.
+If the two cards match, it will turn with green.
+If they don't match, turn to be red .
+Remember to get a 3 to save your heart and get 3 star you have to all the matched card at matxmim 11 trials !
+You an restart the game by click the arrow  on the corner of the right page .
 
 
 
