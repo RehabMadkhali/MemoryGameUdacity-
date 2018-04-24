@@ -6,9 +6,9 @@ for more details see [GitHub udacity/fend-project-memory-game](https://github.co
 
 ### How to play the game ?
 The cards automatically mix up.
-1- Turn over any two cards.
-2- If the two cards match, it will turn with green.
-3- If they don't match, turn to be red.
+- Turn over any two cards.
+- If the two cards match, it will turn with green.
+- If they don't match, turn to be red.
 Remember to get a 3 to save your heart and get 3 stars you have to all the matched card at maximum 11 trials!
 You can restart the game by clicking the arrow on the corner of the right page.
 
